@@ -781,3 +781,15 @@ h4 {
 .line-container .l5 {
   left: 90%;
 }
+
+.privacy {
+  margin: 2rem 0;
+}
+
+.privacy-container {
+  left: 10%;
+  right: 10%;
+  position: absolute;
+  padding-bottom: 20vw;
+  padding-left: 0;
+}
