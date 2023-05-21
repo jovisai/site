@@ -715,7 +715,7 @@ svg {
 }
 
 .mobile {
-  border: 1.334vh solid #000000;
+  border: 1rem solid #000000;
   border-radius: var(--ui-radius-card);
   padding: 1rem 0;
   background: white;
