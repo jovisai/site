@@ -1,5 +1,3 @@
-# Flow: Free Landing Page Template from Uisual
+# Jovis News: An Artificial Intelligence Powered News App
 
-![Flow Preview](https://res.cloudinary.com/uisual/image/upload/assets/screenshots/flow.png)
-
-Flow is a free landing page template from Uisual. Visit [Uisual](https://uisual.com) for more free templates.
+![Site Preview](./screenshots/site.png)
